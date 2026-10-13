@@ -20,8 +20,8 @@
 
 ### Самостоятельная практика
 - [ ] #26 Remove Duplicates from Sorted Array — Easy
-- [ ] #11 Container With Most Water — Medium
+- [x] #11 Container With Most Water — Medium
 - [ ] #75 Sort Colors — Medium
-- [ ] #344 Reverse String — Easy
+- [x] #344 Reverse String — Easy
 - [ ] #977 Squares of a Sorted Array — Easy
 - [ ] #42 Trapping Rain Water — Hard
