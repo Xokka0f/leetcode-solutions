@@ -6,7 +6,7 @@
 
 | # | Паттерн | Решено | Статус |
 |---|---------|--------|--------|
-| 01 | [Two Pointers](01-two-pointers/) | 6/10 | 🔄 В процессе |
+| 01 | [Two Pointers](01-two-pointers/) | 8/10 | 🔄 В процессе |
 | 02 | Sliding Window | 0/10 | ⬜ Не начат |
 | 03 | Binary Search | 0/10 | ⬜ Не начат |
 | 04 | Fast & Slow Pointers | 0/10 | ⬜ Не начат |

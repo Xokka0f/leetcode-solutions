@@ -19,8 +19,9 @@
 - [x] #15 3Sum — Medium
 
 ### Самостоятельная практика
-- [ ] #26 Remove Duplicates from Sorted Array — Easy
+- [x] #26 Remove Duplicates from Sorted Array — Easy
 - [x] #11 Container With Most Water — Medium
+- [x] #16 3Sum Closest — Medium
 - [ ] #75 Sort Colors — Medium
 - [x] #344 Reverse String — Easy
 - [ ] #977 Squares of a Sorted Array — Easy
