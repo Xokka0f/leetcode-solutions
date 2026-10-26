@@ -7,7 +7,7 @@
 | # | Паттерн | Решено | Статус |
 |---|---------|--------|--------|
 | 01 | [Two Pointers](01-two-pointers/) | 11/11 | ✅ Завершён |
-| 02 | [Sliding Window](02-sliding-window/) | 1/10 | 🔄 В процессе |
+| 02 | [Sliding Window](02-sliding-window/) | 2/10 | 🔄 В процессе |
 | 03 | Binary Search | 0/10 | ⬜ Не начат |
 | 04 | Fast & Slow Pointers | 0/10 | ⬜ Не начат |
 | 05 | Merge Intervals | 0/10 | ⬜ Не начат |

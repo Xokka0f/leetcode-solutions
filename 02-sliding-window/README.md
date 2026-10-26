@@ -14,6 +14,6 @@
 
 ### От ментора
 - [x] #643 Maximum Average Subarray I — Easy
-- [ ] #209 Minimum Size Subarray Sum — Medium
+- [x] #209 Minimum Size Subarray Sum — Medium
 
 ### Самостоятельная практика
