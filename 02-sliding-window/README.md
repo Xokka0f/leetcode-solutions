@@ -16,4 +16,6 @@
 - [x] #643 Maximum Average Subarray I — Easy
 - [x] #209 Minimum Size Subarray Sum — Medium
 
+- [x] #3 Longest Substring Without Repeating Characters — Medium
+
 ### Самостоятельная практика
